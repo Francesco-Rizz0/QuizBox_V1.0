@@ -18,4 +18,4 @@
 2. 3D Printer (I used ELEGOO Neptune 3 Pro)
 3. 3D printing filament (I used PLA)
 4. USB type A to USB type Mini-B cable
-5. Additional: Soldering iron (I used FNIRSI HS-02B) + soldering filament (60% Pb 30% Sn composition should be good, beware of the fumes) + cleaning sponge + solder paste (recomended, beware of the fumes)
+5. Additional: Soldering iron (I used FNIRSI HS-02B) + soldering filament with soldering paste core (60% Pb 30% Sn composition should be good, beware of the fumes) + cleaning sponge + solder paste (recomended, beware of the fumes)

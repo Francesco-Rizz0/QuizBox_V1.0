@@ -26,5 +26,12 @@ with the female to male header jumper wires, so that you have a stronger and mor
 With the pins of the screen facing away from the buttons, attach the screen to the lid using four screws and a screw driver. Continue torquing the screws until the screen can non longer move. 
 ### Put in the components
 Once you have secured the screen and the buttons to the lid, you can put in the breadboard with all the componentsin the box with the port of the Arduino Nano facing the rectangular opening on the shorter side of the box.
-Be carefull when introducing the breadboard int the box to not disconnect the wires connections. You should also bend the pontentiometer backwards a bit until the breadboard is all the way in and then bend it back up
-so that it fits in the small opening on the larger side of the box.
+Be careful when introducing the breadboard int the box to not disconnect the wires connections. You should also bend the pontentiometer backwards a bit until the breadboard is all the way in and then bend it back up
+so that it fits in the small opening on the larger side of the box. Now, you can put the lid on top of the box and secure it with four screws, being careful of not tightening them too much as the plastic could easelly
+bend and break, especially if you have printed the parts in materials like PLA.
+### Power on and test
+Now that you have assembled the QuizBox you can power it on by connecting the USB port of the MCU to your computer or another power source capable of delivering 5 volts. You can now enjoy solving this maths problems to
+test your skills. You can start again by pressing the button you have connected to the RESET pin.
+## Thank for your attention
+I hope you enjoyed my project and found it fun or useful. Feel free to change the code and reprogram the microcontroller to add other problems to solve. If you have any questions regarding this project, you can contact me 
+by writing an email to the address: francescorizzo953@gmail.com. Thank you and see you in my next project!

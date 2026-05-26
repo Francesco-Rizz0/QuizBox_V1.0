@@ -32,8 +32,9 @@ Be careful when introducing the breadboard into the box to not disconnect the wi
 so that it fits in the small opening on the larger side of the box. Now, you can put the lid on top of the box and secure it with four screws, being careful not to tighten them too much as the plastic could easilly
 bend and break, especially if you have printed the parts in materials like PLA.
 ### Power on and test
-Now that you have assembled the QuizBox, you can power it on by connecting the USB port of the MCU to your computer or another power source capable of delivering 5 volts. You can now enjoy solving this maths problems to
-test your skills. You can start again by pressing the button you have connected to the RESET pin.
+Now that you have assembled the QuizBox, you can power it on by connecting the USB port of the MCU to your computer or another power source capable of delivering 5 volts. Once it's powered on, you can adjust the contrast
+of the screen by rotating the potentiometer using a screwdriver or another object with a flat head. You can now enjoy solving this maths problems to test your skills. You can start again by pressing the button you have 
+connected to the RESET pin.
 ## Thanks for your attention
 I hope you enjoyed my project and found it fun or useful. Feel free to change the code and reprogram the microcontroller to add other problems to solve. If you have any questions regarding this project, you can contact me 
 by writing an email to the address: francescorizzo953@gmail.com. Thank you and see you in my next project!

@@ -83,13 +83,16 @@ void setup(){
   screen.print("/4 correct");
 }
 
+//The code is only run once, no need to implement loop()
 void loop(){}
 
+//Answer A interrupt handler
 void pin2_ISR(){
   continueFlag = false;
   answer = 1;
 }
 
+//Answer B interrupt handler
 void pin3_ISR(){
   continueFlag = false;
   answer = 2;  

@@ -13,7 +13,7 @@
 1. For editing the code and programming the MCU: Arduino IDE v. 1.8.19 (legacy)
 2. For 3D modelling: Autodesk Fusion
 3. For slicing: ELEGOO Cura v. 4.8.0-1.1.1.0
-4. For electronic schematics: KiCAD v. 10.0
+4. For electronic schematics: KiCAD v. 10.0 and Autodesk Tinkercad
 ## Additional components, instruments and materials
 1. Philipps or flathead small size screwdriver 
 2. 3D Printer (I used ELEGOO Neptune 3 Pro)

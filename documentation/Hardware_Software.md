@@ -7,7 +7,7 @@
 5. 3 buttons + button covers (optional)
 6. Small breadboard (aprox. 85x55mm) 10x30 holes with two power rails
 7. 18 Male to Female header jumper wires (preferably 10cm long)
-8. 3 Male to Male header jumper wires (preferably 10cm long)
+8. 6 (+ 3 optionally) Male to Male header jumper wires (preferably 10cm long)
 9. 8 Pan head Philipps M2 x 1 x 10 screws
 ## Software used
 1. For editing the code and programming the MCU: Arduino IDE v. 1.8.19 (legacy)

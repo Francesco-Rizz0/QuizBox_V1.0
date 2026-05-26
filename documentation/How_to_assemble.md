@@ -1,4 +1,5 @@
 # How to assemble the QuizBox
+### Note: even though it isn't perfectly precise, you can follow the assembly_schematic.jpg file to assemble the circuit. You just need to put the potentiometer on the breadboard facing the power rail.
 ## Step 1: Programming the MCU
 ### Prepare the setup
 Fit the Arduino Nano in the breadboard with the male pins that were already soldered on the board so that it won't move. Connect the board to your computer using the USB A to USB Mini-B cable 
